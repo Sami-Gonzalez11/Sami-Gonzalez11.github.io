@@ -8,6 +8,7 @@ body {
 }
 
 .container {
+     font-family: Tahoma, sans-serif;
     width: 80%;
     margin: auto;
     overflow: hidden;
@@ -19,6 +20,67 @@ body {
     font-size: 130% ;
 }
 
+.experiencia {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: beige;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
+    font-size: 130% ;
+}
+
+
+.job {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: beige;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
+    font-size: 130% ;
+}
+
+.educacion {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: beige;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
+    font-size: 130% ;
+}
+
+
+.Habilidades {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: beige;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
+    font-size: 130% ;
+}
+
+.Contacto {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: beige;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
+    font-size: 130% ;
+}
 header {
     text-align: center;
     margin-bottom: 20px;
